@@ -1,0 +1,5 @@
+Resume.csv
+resume_screener_model.pkl
+label_encoder.pkl
+__pycache__/
+.ipynb_checkpoints/
